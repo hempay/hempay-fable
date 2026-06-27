@@ -1,0 +1,91 @@
+# Hempay
+
+## About
+Hempay is a fintech platform by HEMPAY TECH INNOVATIONS LIMITED (RC - 9198815) that enables individuals and businesses to create multi-currency virtual cards, swap currencies, and make global payments — all from a mobile app, WhatsApp bot, or Telegram bot. Up to 11 virtual cards across 11 currencies. No app download needed for the bots.
+
+## Supported Currencies (11 Virtual Cards)
+- USD — US Dollar
+- EUR — Euro
+- GBP — British Pound
+- NGN — Nigerian Naira
+- JPY — Japanese Yen
+- CAD — Canadian Dollar
+- AUD — Australian Dollar
+- CHF — Swiss Franc
+- CNY — Chinese Yuan
+- ZAR — South African Rand
+- GHS — Ghanaian Cedi
+
+## Access Methods
+- Mobile App: Available on iOS (App Store) and Android (Google Play)
+- WhatsApp Bot: Create cards, make payments, manage account — no download needed
+- Telegram Bot: Full access via Telegram — no download needed
+
+## Features
+
+### 01 — Seamless Swaps, Effortless Payments
+Swap currencies instantly and make payments globally with ease. Hempay makes currency exchange straightforward with live rates and instant execution.
+
+### 02 — Multi-Language Support
+Access your account in your preferred language. Hempay supports multiple languages to welcome users across Africa and the world.
+
+### 03 — Multi Virtual Cards (Up to 11)
+Create up to 11 virtual cards in different currencies. Each card is individually managed and can be used for different spending purposes.
+
+### 04 — Diversify Your Portfolio
+Hold and transact in multiple currencies simultaneously — NGN, USD, GBP, EUR, JPY, and more — from one account.
+
+### 05 — Card Customisation
+Customise your virtual card designs. Each card can be personalised to suit your style.
+
+### 06 — Next-Gen Payments
+Cutting-edge payment technology built for the next generation. Fast, secure, and designed for a borderless world.
+
+### 07 — WhatsApp & Telegram Bots
+Access Hempay from wherever you already are. Create cards, make payments, and manage your account through WhatsApp or Telegram — no app download needed.
+
+## Services
+
+- **Global Payments**: Multi-currency support for worldwide transactions
+- **Virtual Cards**: Up to 11 cards across USD, EUR, GBP, NGN, JPY, and more
+- **Currency Exchange**: Instant swaps between currencies at competitive rates, 24/7
+- **Multi-Language Support**: English, French, Spanish, and more languages
+- **Enterprise Solutions**: API access and custom solutions for SMEs and large businesses
+- **Secure & Fast**: Bank-grade encryption, 24/7 support, instant processing
+- **Multiple Access Points**: Mobile app, WhatsApp bot, Telegram bot, web platform
+
+## How to Get Started
+1. Choose your platform — mobile app, WhatsApp bot, or Telegram bot
+2. Create virtual cards in multiple currencies (USD, EUR, GBP, and more)
+3. Make global payments using your virtual cards
+4. Track transactions, swap currencies, and manage all cards via app or chat
+
+## Security
+- Bank-grade encryption
+- International security standards compliance
+- 24/7 support
+
+## Contact
+- Website: https://hempay.com
+- App Store: https://apps.apple.com/app/hempay
+- Google Play: https://play.google.com/store/apps/details?id=com.hempay
+- WhatsApp: https://wa.me/your-number
+- Telegram: https://t.me/your-bot
+- Company: HEMPAY TECH INNOVATIONS LIMITED (RC - 9198815)
+
+## Frequently Asked Questions
+
+Q: What is Hempay?
+A: Hempay is a multi-currency fintech platform that lets you create up to 11 virtual cards in different currencies, swap currencies instantly, and make global payments — all via mobile app, WhatsApp, or Telegram.
+
+Q: Do I need to download an app?
+A: No. The WhatsApp and Telegram bots let you create cards, make payments, and manage your account without downloading anything. If you prefer an app, it's available on iOS and Android.
+
+Q: How many virtual cards can I create?
+A: Up to 11 virtual cards in 11 different currencies — USD, EUR, GBP, NGN, JPY, CAD, AUD, CHF, CNY, ZAR, and GHS.
+
+Q: Is Hempay available outside Nigeria?
+A: Yes. Hempay supports global payments across many countries and currencies. Multi-language support makes it accessible to users worldwide.
+
+Q: Is Hempay safe?
+A: Yes. Hempay uses bank-grade encryption and complies with international security standards. Your financial data is protected with the highest level of security and 24/7 monitoring.
