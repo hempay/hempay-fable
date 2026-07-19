@@ -8,6 +8,8 @@ import { LenisContext } from './lib/lenis-context'
 import Cursor from './components/Cursor'
 import Home from './pages/Home'
 import Legal from './pages/Legal'
+import HelpCenter from './pages/HelpCenter'
+import Support from './pages/Support'
 import { TERMS, PRIVACY } from './data/legal'
 
 gsap.registerPlugin(ScrollTrigger)
@@ -89,6 +91,8 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/terms" element={<Legal doc={TERMS} />} />
           <Route path="/privacy" element={<Legal doc={PRIVACY} />} />
+          <Route path="/help" element={<HelpCenter />} />
+          <Route path="/support" element={<Support />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </div>

@@ -16,8 +16,9 @@ export default function VCard({ currency, className = '', style, number = 'â€¢â€
       style={
         {
           background: `
-            radial-gradient(120% 160% at 85% -20%, ${currency.hue}33 0%, transparent 50%),
-            radial-gradient(100% 140% at 0% 110%, ${currency.hue}1f 0%, transparent 55%),
+            radial-gradient(125% 165% at 85% -20%, ${currency.hue}66 0%, transparent 52%),
+            radial-gradient(110% 150% at 0% 112%, ${currency.hue}3d 0%, transparent 58%),
+            linear-gradient(150deg, ${currency.hue}1a 0%, transparent 42%),
             linear-gradient(150deg, #2a1810 0%, #170d07 55%, #0f0804 100%)
           `,
           ...style,

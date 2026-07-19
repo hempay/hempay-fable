@@ -31,9 +31,9 @@ export const CURRENCIES: Currency[] = [
   { code: 'CAD', symbol: '$', name: 'Canadian Dollar', hue: '#e8c98f' },
   { code: 'AUD', symbol: '$', name: 'Australian Dollar', hue: '#8fe8d5' },
   { code: 'CHF', symbol: '₣', name: 'Swiss Franc', hue: '#e88fbf' },
-  { code: 'CNY', symbol: '¥', name: 'Chinese Yuan', hue: '#f0a35e' },
-  { code: 'ZAR', symbol: 'R', name: 'South African Rand', hue: '#a5e88f' },
-  { code: 'GHS', symbol: '₵', name: 'Ghanaian Cedi', hue: '#f6c987' },
+  { code: 'CNY', symbol: '¥', name: 'Chinese Yuan', hue: '#e8724f' },
+  { code: 'ZAR', symbol: 'R', name: 'South African Rand', hue: '#d9c85a' },
+  { code: 'GHS', symbol: '₵', name: 'Ghanaian Cedi', hue: '#e8b25e' },
 ]
 
 export interface Feature {
@@ -237,8 +237,8 @@ export const FOOTER_LINKS = {
     { href: '/terms', label: 'Compliance' },
   ],
   Support: [
-    { href: '#', label: 'Help Center' },
-    { href: '#', label: 'Contact Us' },
+    { href: '/help', label: 'Help Center' },
+    { href: '/support', label: 'Contact Us' },
     { href: '#faq', label: 'FAQ' },
   ],
 }
