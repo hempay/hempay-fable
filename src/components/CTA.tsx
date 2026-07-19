@@ -84,7 +84,10 @@ export default function CTA() {
               Create a free account
             </a>
           </Magnetic>
-          <a href="#top" className="btn-ghost px-9 py-4.5 text-lg">
+          <a
+            href="mailto:support@hempayfinance.com?subject=Sales%20enquiry&body=Hi%20Hempay%20team%2C%0A%0AI%27d%20like%20to%20learn%20more%20about%20Hempay%20for%20my%20business.%0A%0A"
+            className="btn-ghost px-9 py-4.5 text-lg"
+          >
             Contact sales
           </a>
         </div>

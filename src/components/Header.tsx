@@ -78,7 +78,7 @@ export default function Header({ ready }: HeaderProps) {
 
           <div className="hidden items-center gap-3 md:flex">
             <a
-              href="#get-started"
+              href="mailto:support@hempayfinance.com?subject=Sales%20enquiry&body=Hi%20Hempay%20team%2C%0A%0AI%27d%20like%20to%20learn%20more%20about%20Hempay%20for%20my%20business.%0A%0A"
               className="text-sm font-medium text-cream-2 transition-colors hover:text-cream"
             >
               Contact sales
@@ -137,7 +137,7 @@ export default function Header({ ready }: HeaderProps) {
               Create a free account
             </a>
             <a
-              href="#get-started"
+              href="mailto:support@hempayfinance.com?subject=Sales%20enquiry&body=Hi%20Hempay%20team%2C%0A%0AI%27d%20like%20to%20learn%20more%20about%20Hempay%20for%20my%20business.%0A%0A"
               onClick={() => setMenuOpen(false)}
               className="btn-ghost w-full px-6 py-4 text-base"
             >
